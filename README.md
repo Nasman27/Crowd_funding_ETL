@@ -8,3 +8,5 @@ For the ETL (Extract, Transform and Load) mini project, we have worked with a pa
 
 
 ![The ERD diagram of the crowdfunding database](/Starter_Files/Crowdfunding_ERD.png)
+
+![The output for the campaigns table](/Starter_Files/SQL_outputs/campaign.png)
