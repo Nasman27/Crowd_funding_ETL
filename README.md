@@ -36,6 +36,6 @@ Please check the SQL_output folder for all the sql output images.
 
 # Conclusion:
 
-Working on the ETL mini project has been a valuable experience, providing hands-on exposure to the entire Extract, Transform, and Load process. We took our raw data from the csv files and leveraging pandas dictionary and looping techniques with list comprehension  we cleared out  unnecessary information and created insightful dataframes/tables.  We created a full ETL pipeline which includes visualizations for easier understanding..It gave us the confidence that we are ready to work in the industry with such sort of projects.
+Working on the ETL mini project has been a valuable experience, providing hands-on exposure to the entire Extract, Transform, and Load process. We took our raw data from the excel files and leveraging pandas dictionary and looping techniques with list comprehension  we cleared out  unnecessary information and created insightful dataframes/tables and stored the data in four csv files.  We created a full ETL pipeline which includes visualizations for easier understanding..It gave us the confidence that we are ready to work in the industry with such sort of projects.
 
 
