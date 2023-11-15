@@ -11,6 +11,6 @@ For the ETL (Extract, Transform and Load) mini project, we have worked with a pa
 
 ![The output for the campaigns table](/Starter_Files/SQL_outputs/campaign.png)
 
-![The output for the category table](/SQL_outputs/category.png)
+![The output for the category table](Starter_Files/SQL_outputs/category.png)
 
 
