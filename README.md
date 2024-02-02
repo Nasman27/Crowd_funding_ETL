@@ -1,7 +1,7 @@
 # Crowd_funding_ETL
 project2
 
-# Collaborators : Nasir Qadri and Mehr Atif
+# Collaborators : Mehr Atif and Nasir Qadri
 
 # OBJECTIVE:
 
